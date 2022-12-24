@@ -1,4 +1,4 @@
-Git Cheat Sheet English
+Git Cheat Sheet English | 
 Source -> [link](https://github.com/arslanbilal/git-cheat-sheet#readme)
 ===============
 ### Index
