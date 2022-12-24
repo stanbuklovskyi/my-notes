@@ -1,5 +1,5 @@
 Git Cheat Sheet English
-Source: https://github.com/arslanbilal/git-cheat-sheet#readme
+Source -> [link](https://github.com/arslanbilal/git-cheat-sheet#readme)
 ===============
 ### Index
 * [Set Up](#setup)
